@@ -1,0 +1,49 @@
+body { background: whitesmoke; max-width: 500px; font-family: Tahoma; margin: auto;
+margin: 0; padding: 0; font-size: 16px; font-size: normal; } 
+.boy table { padding:
+10px; border-collapse: collapse; } 
+.boy td { border:1px solid gray; padding: 5px;
+border-right: 0px; border-left: 0px; } .header { border: 1px solid green; color:
+white; background: darkgreen; padding: 3px; width: auto; } .header li { list-style-type:
+none; margin: 0px; padding: 5px; float: left; } nav { height: 50px; } .header ul
+{ margin: 0px; margin-left: 0px; padding-left: 0px; } .header a { text-decoration:
+none; color: white; font-size: 16px; padding: 5px; } .header a:hover { color: white;
+background-color: palegreen; padding: 5px; } .head { color: black; background:
+lightgrey; padding: 7px; border: 1px solid green; border-bottom: 0px; margin-top:
+0px; } .body { color: black; background: silver; padding: 5px; border: 1px solid
+green; margin-top: -1px; margin-bottom: 0px; font-size: 16px; } .online { color:
+black; background: white; padding: 5px; border: 1px solid green; margin-top: -1px;
+margin-bottom: 0px; font-size: 16px; padding-top: 10px; padding-bottom: 10px; width:
+100%; } .boy { color: gray; background: white; padding: 10px; border: 1px solid
+green; margin-top: -1px; margin-bottom: 0px; font-size: 16px; width: 100%; } table
+{ border: 1px solid gray; border-collapse: collapse; } td { border-right: 0px;
+border-left: 0px; padding: 5px; } .post { color: black; background: white; padding:
+5px; border: 1px solid gray; margin-top: 5px; margin-bottom: 5px; font-size: 16px;
+padding-bottom: 10px; } .post a { text-decoration: none; font-size: 17px; color:
+darkgreen; } .post a:hover { color: darkgreen; background: palegreen; } .pcon {
+color: black; background: silver; padding: 5px; border: 1px solid green; margin-top:
+-1px; margin-bottom: 0px; font-size: 16px; } .input { border: 1px solid green;
+margin: 0px; } .input label { display: block; color: black; margin: 2px; } .input
+input { height: 25px; width: 90%; padding: 5px 10px; font-size: 16px; border: 1px
+solid green; margin: 5px; } .input textarea { height: 100px; width:
+93%; padding: 5px; font-style: normal; font-size: 16px; border: 1px solid green;
+margin: 5px; } .input select { width: 95%; padding: 5px; border: 1px solid green;
+margin: 3px; background: white; } a { text-decoration: none; color: green; font-size:
+16px; } a:hover { color: darkgreen; background-color: palegreen; } .footer { background:
+#dff0d8; color: darkgreen; border: 1px solid green; border-top: 0px; padding: 10px;
+margin-top: 0px; text-align: left; } .ph { background: #dff0d8; color: black; border:
+1px solid green; border-top: 0px; padding: 10px; margin-top: 0px; font-size: 16px;
+} .button { background:darkgreen; border:1px solid green; padding:5px; color:white;
+font-size:16px; width:100%; margin-top:5px; margin-bottom: 5px; } 
+.footer a { text-decoration:
+none; } li { list-style-type: none; margin: 0px; padding: 5px; } 
+ul { margin: 0px;
+margin-left: 0px; padding-left: 0px; } 
+li a { text-decoration: none; color: black;
+font-size: 16px; padding: 5px; } 
+
+li a:hover { 
+	color: black; 
+	background-color: palegreen;
+	padding: 5px; }
+
