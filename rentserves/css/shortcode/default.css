@@ -921,7 +921,7 @@ textarea:focus {
 [data-black-overlay] h4, 
 [data-black-overlay] h5, 
 [data-black-overlay] h6{
-  color: rgba(0,0,0, .9) !important;
+  color: white;
 }
 [data-black-overlay] > div,
 [data-black-overlay] > form,
