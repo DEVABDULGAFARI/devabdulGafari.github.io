@@ -93,7 +93,7 @@ font-family: 'Nunito Sans', sans-serif;
   color: #fff;
 }
 .send__btn {
-  background: #b7985b;
+  background: rgba(102,211,238,1) !important;
   border: none;
   color: #fff;
   height: 50px;
@@ -103,7 +103,7 @@ font-family: 'Nunito Sans', sans-serif;
   font-size: 28px;
 }
 .send__btn:hover {
-  background: #ac7e24;
+  background: rgba(0,0,0, .50) !important;
 }
 
 .mc-form .mc-news {
