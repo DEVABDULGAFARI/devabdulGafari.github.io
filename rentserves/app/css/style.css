@@ -8546,7 +8546,7 @@ label {
   position: fixed; }
 
 .brand-logo img {
-  width: 11rem; }
+  width: 5rem; }
 
 .nav-header {
   height: 6.25rem;
@@ -12371,7 +12371,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
       [data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .dlabnav .metismenu > li > a.has-arrow:after {
         display: none; }
     [data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .dlabnav .metismenu > li.mm-active > a {
-      background: var(--primary);
+      background: rgba(102,211,238,1) !important;
       border-radius: 0.625rem; }
       [data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .dlabnav .metismenu > li.mm-active > a i {
         color: #fff;
@@ -12381,7 +12381,7 @@ Fixing Order => Base + Typography >> General Layout + Grid >> Page Layout + Comp
       top: auto; }
     [data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .dlabnav .metismenu > li:hover > a {
       border-radius: 0.625rem;
-      background: var(--primary);
+      background: rgba(102,211,238,1) !important;
       color: #fff; }
       [data-theme-version="dark"][data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .dlabnav .metismenu > li:hover > a {
         background: #292d4a; }

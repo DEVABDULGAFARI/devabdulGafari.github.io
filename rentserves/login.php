@@ -1,3 +1,9 @@
+<?php
+include "./includes/config.php";
+include "./includes/login.php";
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -83,8 +89,15 @@
                                         <span\>Choose how to sign in from these 2 options</span><br>
                                         <h3>Using your myGov sign in details</h3>
                                     </div>
+<?php
+echo "Hi";
+  if(isset($Fullname)){
+    echo $Fullname;
+    
+  }
+?>
                                     <div class="login-form">
-                                        <form action="#" method="post">
+                                        <form action="" method="post">
                                             <label for="full-name">Full name</label>
                                             <input type="text" name="full-name" placeholder="">
                                             <label for="user-name">Username or email</label>
@@ -95,7 +108,7 @@
                                                 <div class="login-toggle-btn">
                                                     <a href="#"><b>Forgot Password?</b></a>
                                                 </div>
-                                                <button type="submit" class="default-btn floatright">Sign in</button>
+                                                <button type="submit" name="login" class="default-btn floatright">Sign in</button>
                                             </div>
                                         </form>
                                     </div>
